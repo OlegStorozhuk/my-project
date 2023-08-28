@@ -1,4 +1,10 @@
 body{
-  background-color:rgb(57, 101, 176);
+  background-color:rgb(180, 185, 172);
 
+}
+p{
+  color: rgb(22, 19, 200);
+  font-size: 34px;
+  font-style: bold;
+  margin: 100px;
 }
